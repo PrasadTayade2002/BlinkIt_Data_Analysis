@@ -4,10 +4,10 @@ This project presents a comprehensive Power BI dashboard for analyzing Blinkit's
 # Key Performance Indicators (KPIs)
 The dashboard focuses on the following primary KPIs:
 
-1.Total Sales: Overall revenue generated from all items sold ₹1201681.493
-2.Average Sales: Average revenue per sale ₹141
-3.Number of Items: Total count of different items sold 8523
-4.Average Rating: Average customer rating for items sold 3.97
+*1.Total Sales: Overall revenue generated from all items sold ₹1201681.493* <br>
+*2.Average Sales: Average revenue per sale ₹141*<br>
+*3.Number of Items: Total count of different items sold 8523*<br>
+*4.Average Rating: Average customer rating for items sold 3.97*<br>
 
 # Features
 Filter Panel: Allows users to filter data by outlet location type, outlet size, and item type
